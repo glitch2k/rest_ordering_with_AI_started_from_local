@@ -1,0 +1,50 @@
+[
+    {
+        "date": "2024-10-23",
+        "transactions": []
+    },
+    {
+        "date": "2024-10-23",
+        "transactions": [
+            {
+                "date": "2024-10-23",
+                "order_number": 5056,
+                "receipt_number": 645284,
+                "orders": [
+                    {
+                        "order_name": "cheese burger meal",
+                        "order_desc": "cheese burger - fries - medium drink",
+                        "order_price": 5.34
+                    },
+                    {
+                        "order_name": "white chicken meal",
+                        "order_desc": "1/4 white chicken - fries - medium drink",
+                        "order_price": 21.49
+                    }
+                ],
+                "total_cost": 26.83,
+                "money_paid": 30.0,
+                "change_due": 3.1700000000000017
+            },
+            {
+                "date": "2024-10-23",
+                "order_number": 9484,
+                "receipt_number": 570541,
+                "orders": [
+                    {
+                        "order_name": "dark chicken meal",
+                        "order_desc": "1/4 dark chicken - fries - medium drink",
+                        "order_price": 11.49
+                    }
+                ],
+                "total_cost": 11.49,
+                "money_paid": 30.0,
+                "change_due": 18.509999999999998
+            }
+        ]
+    },
+    {
+        "date": "2024-10-23",
+        "transactions": []
+    }
+]
